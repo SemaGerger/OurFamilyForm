@@ -1,0 +1,47 @@
+C:\Users\DELL\source\repos\OurFamily\OurFamily\obj\Debug\OurFamily.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\OurFamily\OurFamily\obj\Debug\OurFamily.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\OurFamily\OurFamily\obj\Debug\OurFamily.Form1.resources
+C:\Users\DELL\source\repos\OurFamily\OurFamily\obj\Debug\OurFamily.Form2.resources
+C:\Users\DELL\source\repos\OurFamily\OurFamily\obj\Debug\OurFamily.Properties.Resources.resources
+C:\Users\DELL\source\repos\OurFamily\OurFamily\obj\Debug\OurFamily.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\OurFamily\OurFamily\obj\Debug\OurFamily.csproj.CoreCompileInputs.cache
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.csproj.AssemblyReference.cache
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.csproj.SuggestedBindingRedirects.cache
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.Form1.resources
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.Form2.resources
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.Properties.Resources.resources
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.csproj.GenerateResource.cache
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.csproj.CoreCompileInputs.cache
+D:\C# dersleri\OurFamily\OurFamily\bin\Debug\OurFamily.exe.config
+D:\C# dersleri\OurFamily\OurFamily\bin\Debug\OurFamily.exe
+D:\C# dersleri\OurFamily\OurFamily\bin\Debug\OurFamily.pdb
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.exe
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.pdb
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.Form3.resources
+D:\C# dersleri\OurFamily\OurFamily\obj\Debug\OurFamily.Form4.resources
+D:\C# dersleri\OurFamily - Kopya\OurFamily\bin\Debug\OurFamily.exe.config
+D:\C# dersleri\OurFamily - Kopya\OurFamily\bin\Debug\OurFamily.exe
+D:\C# dersleri\OurFamily - Kopya\OurFamily\bin\Debug\OurFamily.pdb
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.csproj.AssemblyReference.cache
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.csproj.SuggestedBindingRedirects.cache
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.Form1.resources
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.Form2.resources
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.Form3.resources
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.Properties.Resources.resources
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.csproj.GenerateResource.cache
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.csproj.CoreCompileInputs.cache
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.exe
+D:\C# dersleri\OurFamily - Kopya\OurFamily\obj\Debug\OurFamily.pdb
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\bin\Debug\OurFamily.exe.config
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\bin\Debug\OurFamily.exe
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\bin\Debug\OurFamily.pdb
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.csproj.AssemblyReference.cache
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.csproj.SuggestedBindingRedirects.cache
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.Form1.resources
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.Form2.resources
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.Form3.resources
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.Properties.Resources.resources
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.csproj.GenerateResource.cache
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.csproj.CoreCompileInputs.cache
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.exe
+D:\YAZILIM DERS\projeler\OurFamily - Kopya 1\OurFamily\obj\Debug\OurFamily.pdb
